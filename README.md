@@ -4,3 +4,6 @@
 Welcome to **SongBeats!** A script designed for players to listen to their favorite music, while playing their favorite game.
 ## Usage
 **SongBeats is currently in progress!** 
+## Song Requests:
+- Ghost by cammellia from Beat Saber (Requested by qkluc)
+## ...
